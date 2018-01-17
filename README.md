@@ -1,5 +1,10 @@
 # raspi-pin-label-translator
-This node.js module translates the pin label of a raspberry pi like GPIO17 into the raw pin number given by the board layout P1-11, or just 11 and the other way around.
+This node.js module translates pin labels of a raspberry pi, like GPIO17, into the pin number given by the board layout like P1-11, or just 11 and the other way around.
+
+This can be useful if you use multiple hardware libraries that use different pin labels/namings and you want to use the same naming in your code / config files consequently.
+
+## Supported Devices
+Raspberry B+, 2, 3, Zero, Zero W
 
 ## Installation
 ``` bash

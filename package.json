@@ -1,7 +1,7 @@
 {
   "name": "raspi-pin-label-translator",
-  "version": "1.0.0",
-  "description": "Translates raspberry pi pin label like GPIO17 to P1-11 or P1-11 to GPIO17",
+  "version": "1.0.2",
+  "description": "Translates raspberry pi pin labels like GPIO17 to P1-11 or into raw numbers and vice versa",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fbrinker/raspi-pin-label-translator.git"
@@ -22,5 +22,20 @@
     "url": "https://github.com/fbrinker/raspi-pin-label-translator/issues"
   },
   "deprecated": false,
-  "license": "MIT"
+  "license": "MIT",
+    "keywords": [
+    "pin",
+    "gpio",
+    "label",
+    "pi",
+    "raspi",
+    "raspberry",
+    "raspberrypi",
+    "raspberry pi",
+    "rpi",
+    "translate",
+    "translator",
+    "transpile",
+    "transpiler"
+  ]
 }
