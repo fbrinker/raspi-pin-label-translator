@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/raspi-pin-label-translator.svg)](https://badge.fury.io/js/raspi-pin-label-translator)
+
 # raspi-pin-label-translator
 This node.js module translates pin labels of a raspberry pi, like GPIO17, into the pin number given by the board layout like P1-11, or just 11 and the other way around.
 
